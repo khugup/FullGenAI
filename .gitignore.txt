@@ -1,7 +1,0 @@
-*.csv
-*.pkl
-*.mp4
-*.txt
-*.h5
-*.pdf
-__pycache__/
